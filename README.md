@@ -3,7 +3,7 @@
 
 Installation:
 Copy the .vim file to the ~/.vim/plugin/ directory   ( or create one)
-Enjoy.
+
 
 Credits:
 Original .vim done by pbondoer.
