@@ -136,7 +136,7 @@ function! s:insert()
 endfunction
 
 function! s:wm()
-	let l:wm = "Winter Mushroom SAS 2017"
+	let l:wm = "Winter Mushroom SAS 2019"
 	return l:wm
 endfunction
 
